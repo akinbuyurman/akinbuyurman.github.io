@@ -1,0 +1,28 @@
+#banner{
+    background-color: red;
+    color: white;
+    font-family:Tahoma;
+    font-size: 15px;
+    height: 40px;
+    padding: 50px;
+    text-align: center;
+}
+#menu{
+    float: left;
+    background: grey;
+}
+#anasayfa{
+    height: 200px;
+    padding: 20px;
+    margin: 20px;
+}
+#hakkında{
+    height: 200px;
+    padding: 20px;
+    margin: 20px;
+}
+#iletisim{
+    height: 200px;
+    padding: 20px;
+    margin: 20px;
+}
